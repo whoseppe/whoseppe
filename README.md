@@ -10,6 +10,9 @@ Currently, my go-to is React & React Native on the front-end. I also have profes
 
 **Goal #1** is to never get bored and never stop learning. **Goal #2** is to work alongside people with a growth mindset. **Goal #3** is to be a well rounded full-stack developer. 
 
+P.S.
+This https://github.com/ggmele1 is also me 😉
+
 <!--
 **ggmele1/ggmele1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
