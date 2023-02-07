@@ -4,7 +4,7 @@ I am a self-taught developer with UI/UX design skills working with front-end & b
 
 ### What tools do I use? 👨‍💻
 
-Currently, my go-to is React & React Native on the front-end. I have professional experience with Laravel, Node.js, Express.js, MongoDB and SQL. 
+Currently, my go-to is React & React Native on the front-end. I also have professional experience with Laravel, Node.js, Express.js, MongoDB and SQL. 
 
 ### What are my goals? 😃🧾
 
